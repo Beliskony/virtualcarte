@@ -3,7 +3,7 @@ import "./App.css"
 
 export default function DigitalGickPoster() {
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-cyan-600 to-cyan-900 p-4">
+    <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-white to-violet-400 p-4">
       <div className="max-w-4xl w-full bg-white rounded-xl overflow-hidden shadow-2xl">
         {/* Header */}
         <div className="bg-gradient-to-r from-cyan-600 to-cyan-800 text-white p-8">
