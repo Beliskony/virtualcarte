@@ -106,15 +106,15 @@ export default function DigitalGickPoster() {
           <div className="bg-cyan-800 text-white p-6 rounded-lg">
             <h2 className="text-2xl font-bold mb-4">Contactez-nous dès maintenant</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              <div className="flex items-center space-x-3 justify-center">
+              <div className="flex items-center space-x-3 lg:justify-center 2xl:justify-center">
                 <Phone className="h-5 w-5" />
                 <span className="underline"><a href="https://wa.me/+2250788557370">07-88-55-73-70</a></span>
               </div>
-              <div className="flex items-center space-x-3 justify-center">
+              <div className="flex items-center space-x-3 lg:justify-center 2xl:justify-center">
                 <Mail className="h-5 w-5" />
                 <span className="underline"><a href="mailto:nguessanaxel21@gmail.com">nguessanaxel21@gmail.com</a></span>
               </div>
-              <div className="flex items-center space-x-3 ">
+              <div className="flex items-center space-x-3 lg:justify-center 2xl:justify-center ">
                 <ExternalLink className="h-5 w-5" />
                 <a
                   href="https://digitalgick.vercel.app"
